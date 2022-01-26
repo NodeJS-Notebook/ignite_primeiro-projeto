@@ -1,0 +1,17 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NodeJS-Notebook/ignite_primeiro-projeto.git",
+  "author": "Paulo Humberto Anhaia Negrelli <paulo.anhaia7@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
